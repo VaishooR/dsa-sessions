@@ -9,3 +9,4 @@ DSA Questions:
 7. Program to find the GCD of two numbers.
 8. Program to calculate sum of n natural numbers.
 9. Program to reverse a number.
+10. Program to print the multiplication table.

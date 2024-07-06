@@ -11,3 +11,4 @@ DSA Questions:
 9. Program to reverse a number.
 10. Program to print the multiplication table.
 11. Program to display first n odd numbers.
+12. Program to find minimum of three numbers.

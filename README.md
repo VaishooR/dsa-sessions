@@ -17,3 +17,4 @@ DSA Questions:
 15. Program to check leap year.
 16. Program to print odd or even.
 17. Program to find maximum of three numbers.
+18. Program to find mid element.

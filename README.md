@@ -10,3 +10,4 @@ DSA Questions:
 8. Program to calculate sum of n natural numbers.
 9. Program to reverse a number.
 10. Program to print the multiplication table.
+11. Program to display first n odd numbers.

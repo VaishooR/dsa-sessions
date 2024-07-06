@@ -13,3 +13,4 @@ DSA Questions:
 11. Program to display first n odd numbers.
 12. Program to find minimum of three numbers.
 13. Program to check marriage eligibility based on age.
+14. Program to calculate tax amount.

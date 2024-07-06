@@ -15,3 +15,4 @@ DSA Questions:
 13. Program to check marriage eligibility based on age.
 14. Program to calculate tax amount.
 15. Program to check leap year.
+16. Program to print odd or even.

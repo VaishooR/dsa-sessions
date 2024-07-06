@@ -3,7 +3,7 @@
 function sum(n){
     if(n<1){
         console.log("Invalid number")
-        return;
+        return
     }
     let result=0;
     for(let i=1; i<=n; i++){

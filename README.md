@@ -18,3 +18,6 @@ DSA Questions:
 16. Program to print odd or even.
 17. Program to find maximum of three numbers.
 18. Program to find mid element.
+19. Program to print star pattern.
+20. Program to print number pattern.
+21. Program to print alphabet pattern.

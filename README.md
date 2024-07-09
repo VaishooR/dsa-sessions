@@ -21,3 +21,4 @@ DSA Questions:
 19. Program to print star pattern.
 20. Program to print number pattern.
 21. Program to print alphabet pattern.
+22. Program to check happy number.

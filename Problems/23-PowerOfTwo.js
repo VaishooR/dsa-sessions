@@ -1,3 +1,6 @@
+// Leetcode-231 :  Power of Two
+
+// APPROACH-1
 function PowerOfTwo(num){
     if(num<=0){
        console.log("Enter Valid Number");
@@ -24,6 +27,9 @@ function PowerOfTwo(num){
  }
  PowerOfTwo(64)
  
+ 
+
+//  APPROACH-2
  function CheckPower(n){
    if(n<=0){return false}
    if(n==1){return true}

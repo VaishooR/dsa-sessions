@@ -24,4 +24,5 @@ DSA Questions:
 22. Program to check happy number.
 23. Program to check power of two.
 24. Program to check jewels and stones.
-25. Program to check power of three. 
+25. Program to check power of three.
+26. Program to check power of four.

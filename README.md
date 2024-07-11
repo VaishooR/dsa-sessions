@@ -23,4 +23,5 @@ DSA Questions:
 21. Program to print alphabet pattern.
 22. Program to check happy number.
 23. Program to check power of two.
-24. Program to check jewels and stones. 
+24. Program to check jewels and stones.
+25. Program to check power of three. 

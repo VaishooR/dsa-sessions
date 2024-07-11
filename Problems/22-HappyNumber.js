@@ -39,3 +39,31 @@ function HappyNumber(num){
       return sum
  }
  console.log(isHappyNumber(29))
+
+
+
+
+//  APPROACH-3
+function HappyNumber(num){
+    let inputNum=num;
+    while(num !== 1 && num !== 4){
+       let sum=0;
+       while(num > 0){    // <-- This loop runs for every single digit of the given number, When it reaches last digit it automatically becomes 0 and the loop ends
+           let digit=num%10;           //19%10=9     //1%10=1  
+           sum = sum + digit * digit;  //sum=0+81=81 //sum=81+1=82
+           num = Math.floor(num / 10)  //19/10=1     //1/10=0
+       }
+       console.log(sum)
+       num = sum;
+    }
+
+    if(num == 1){
+       console.log(inputNum + " = Happy Number");
+       return;
+    }
+    if(num == 4){
+       console.log(inputNum + " = Not Happy Number");
+       return;
+    }
+}
+HappyNumber(19)

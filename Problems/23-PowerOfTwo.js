@@ -43,3 +43,11 @@ function PowerOfTwo(num){
    return true
  }
  console.log(CheckPower(16))
+
+
+
+//  APPROACH-3  (using bitwise operator '&')
+function PowerOfTwoUsingBinary(n){
+  return (n & (n-1)) == 0
+}
+console.log(PowerOfTwoUsingBinary(128))

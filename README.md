@@ -26,3 +26,4 @@ DSA Questions:
 24. Program to check jewels and stones.
 25. Program to check power of three.
 26. Program to check power of four.
+27. Program to check prime number.

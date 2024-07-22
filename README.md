@@ -29,3 +29,4 @@ DSA Questions:
 27. Program to check prime number.
 28. Program to print prime numbers in a range. (Sieve of Eratosthenes)
 29. Program to count prime numbers.
+30. Program to find closest prime numbers in range. (LC-2523)

@@ -27,3 +27,4 @@ DSA Questions:
 25. Program to check power of three.
 26. Program to check power of four.
 27. Program to check prime number.
+28. Program to print prime numbers in a range. (Sieve of Eratosthenes)

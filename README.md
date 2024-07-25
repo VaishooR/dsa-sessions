@@ -31,3 +31,4 @@ DSA Questions:
 29. Program to count prime numbers.
 30. Program to find closest prime numbers in range. (LC-2523)
 31. Program to reverse an array. (LC-344)
+32. Program to reverse vowels. (LC-345)

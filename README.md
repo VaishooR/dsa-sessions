@@ -34,3 +34,4 @@ DSA Questions:
 32. Program to reverse vowels. (LC-345)
 33. Program to find two sum. (LC-1)
 34. Program to find two sum with sorted input. (LC-167)
+35. Program to move zeroes. (LC-283)

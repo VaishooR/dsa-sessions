@@ -33,3 +33,4 @@ DSA Questions:
 31. Program to reverse an array. (LC-344)
 32. Program to reverse vowels. (LC-345)
 33. Program to find two sum. (LC-1)
+34. Program to find two sum with sorted input. (LC-167)

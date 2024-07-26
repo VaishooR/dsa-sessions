@@ -36,3 +36,4 @@ DSA Questions:
 34. Program to find two sum with sorted input. (LC-167)
 35. Program to move zeroes. (LC-283)
 36. Program to remove element. (LC-27)
+37. Program to find frequency of character in string. 

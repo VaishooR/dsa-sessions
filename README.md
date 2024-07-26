@@ -35,3 +35,4 @@ DSA Questions:
 33. Program to find two sum. (LC-1)
 34. Program to find two sum with sorted input. (LC-167)
 35. Program to move zeroes. (LC-283)
+36. Program to remove element. (LC-27)

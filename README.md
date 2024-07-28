@@ -37,3 +37,4 @@ DSA Questions:
 35. Program to move zeroes. (LC-283)
 36. Program to remove element. (LC-27)
 37. Program to find frequency of character in string. 
+38. Program to find maximum buy and sell stock profit.

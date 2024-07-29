@@ -38,3 +38,4 @@ DSA Questions:
 36. Program to remove element. (LC-27)
 37. Program to find frequency of character in string. 
 38. Program to find maximum buy and sell stock profit.
+39. Program to remove duplicates from sorted array. (LC-26)

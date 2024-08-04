@@ -1,5 +1,7 @@
 // Leetcode-867 : Transpose Matrix
 
+
+// APPROACH-1
 var transpose = function(matrix) {
     let transpose = []
     for(let i = 0; i < matrix[0].length; i++){
@@ -16,8 +18,17 @@ transpose([[1,2],[3,4],[5,6]])
 
 
 
-// Only for Square matrix (Swapping only non-principal diagonal elements)
+// APPROACH-2
+function TransposeSquareMatrix(matrix){
+    return matrix[0].map((_, colIndex) => matrix.map(row => row[colIndex]));
+}
+TransposeSquareMatrix([[1,2,3],[4,5,6],[7,8,9]])
 
+
+
+
+
+// Only for Square matrix (Swapping only non-principal diagonal elements)
 function TransposeSquareMatrix(matrix){
     let row = matrix.length;
     for(let i = 0; i < row; i++){
@@ -28,14 +39,5 @@ function TransposeSquareMatrix(matrix){
         }
     }
     console.log(matrix)
-}
-TransposeSquareMatrix([[1,2,3],[4,5,6],[7,8,9]])
-
-
-
-
-
-function TransposeSquareMatrix(matrix){
-    return matrix[0].map((_, colIndex) => matrix.map(row => row[colIndex]));
 }
 TransposeSquareMatrix([[1,2,3],[4,5,6],[7,8,9]])

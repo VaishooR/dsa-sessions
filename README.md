@@ -59,3 +59,4 @@ DSA Questions:
 57. Program to find first bad version. (LC-278)
 58. Program to find search in rotated sorted array. (LC-33)
 59. Program to find search in rotated sorted array II. (LC-81)
+60. Program to find peak index in a mountain array. (LC-852)

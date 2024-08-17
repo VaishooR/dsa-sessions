@@ -62,3 +62,4 @@ DSA Questions:
 60. Program to find peak index in a mountain array. (LC-852)
 61. Program to check if valid perfect square. (LC-367)
 62. Program to calculate range sum query. (LC-303)
+63. Program to get min positive num step by step sum (LC-1413)

@@ -65,3 +65,4 @@ DSA Questions:
 63. Program to get min positive num step by step sum (LC-1413)
 64. Program to find continuous subarray sum. (LC-523)
 65. Program to calculate container with most water. (LC-11)
+66. Program to count pairs whose sum is less than target. (LC-2824)

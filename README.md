@@ -63,3 +63,5 @@ DSA Questions:
 61. Program to check if valid perfect square. (LC-367)
 62. Program to calculate range sum query. (LC-303)
 63. Program to get min positive num step by step sum (LC-1413)
+64. Program to find continuous subarray sum. (LC-523)
+65. Program to calculate container with most water. (LC-11)

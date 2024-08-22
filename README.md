@@ -66,3 +66,5 @@ DSA Questions:
 64. Program to find continuous subarray sum. (LC-523)
 65. Program to calculate container with most water. (LC-11)
 66. Program to count pairs whose sum is less than target. (LC-2824)
+67. Program to calculate product of array except self. (LC-238)
+68. Program to count number of subarrays whose sum equals k. (LC-560)

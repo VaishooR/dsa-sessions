@@ -68,3 +68,5 @@ DSA Questions:
 66. Program to count pairs whose sum is less than target. (LC-2824)
 67. Program to calculate product of array except self. (LC-238)
 68. Program to count number of subarrays whose sum equals k. (LC-560)
+69. Program to find maximum consecutive 1s. (LC-485)
+70. Program to find maximum consecutive 1s III. (LC-1004)

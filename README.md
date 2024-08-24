@@ -72,3 +72,4 @@ DSA Questions:
 70. Program to find maximum consecutive 1s III. (LC-1004)
 71. Program to find longest consecutive sequence. (LC-128)
 72. Program to find longest subarray of 1's after deleting one element. (LC-1493)
+73. Program to find longest substring without repeating characters. (LC-3)

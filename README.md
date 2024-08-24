@@ -74,3 +74,4 @@ DSA Questions:
 72. Program to find longest subarray of 1's after deleting one element. (LC-1493)
 73. Program to find longest substring without repeating characters. (LC-3)
 74. Program to find index of 1st occurence in a string. (LC-28)
+75. Program of contains duplicate. (LC-217)

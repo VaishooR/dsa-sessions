@@ -76,3 +76,6 @@ DSA Questions:
 74. Program to find index of 1st occurence in a string. (LC-28)
 75. Program of contains duplicate. (LC-217)
 76. Program of contains duplicate II. (LC-219)
+77. Program of contains duplicate III. (LC-220)
+78. Program to find longest palindrome substring. (LC-5)
+79. Program to find longest common prefix. (LC-14)

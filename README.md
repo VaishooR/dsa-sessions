@@ -79,3 +79,4 @@ DSA Questions:
 77. Program of contains duplicate III. (LC-220)
 78. Program to find longest palindrome substring. (LC-5)
 79. Program to find longest common prefix. (LC-14)
+80. Program to check valid parentheses. (LC-20)
